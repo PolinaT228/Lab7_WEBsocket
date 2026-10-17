@@ -1,0 +1,14 @@
+C:\Users\polin\Desktop\WebSocketServer\bin\Debug\net10.0\WebSocketServer.exe
+C:\Users\polin\Desktop\WebSocketServer\bin\Debug\net10.0\WebSocketServer.deps.json
+C:\Users\polin\Desktop\WebSocketServer\bin\Debug\net10.0\WebSocketServer.runtimeconfig.json
+C:\Users\polin\Desktop\WebSocketServer\bin\Debug\net10.0\WebSocketServer.dll
+C:\Users\polin\Desktop\WebSocketServer\bin\Debug\net10.0\WebSocketServer.pdb
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.AssemblyInfo.cs
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.dll
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\refint\WebSocketServer.dll
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.pdb
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\WebSocketServer.genruntimeconfig.cache
+C:\Users\polin\Desktop\WebSocketServer\obj\Debug\net10.0\ref\WebSocketServer.dll
